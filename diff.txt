@@ -1,0 +1,6 @@
+242,243c242,243
+<                         numTightsWhoHaveCheckRaised = numTightsWhoHaveCheckRaised + 0.5*(oppo_model(player, 4*(positionRV -1) + TIGHTAGGRESSIVE)*featureVector(NUMCHECKRAISESINCURRENTSTAGE) + oppo_model(player, 4*(positionRV -1) + TIGHTPASSIVE)*featureVector(NUMCHECKRAISESINCURRENTSTAGE));
+<                         numTightsWhoHaveReRaised = numTightsWhoHaveReRaised + 0.5*(oppo_model(player, 4*(positionRV -1) + TIGHTAGGRESSIVE)*featureVector(NUMRERAISESINCURRENTSTAGE) + oppo_model(player, 4*(positionRV -1) + TIGHTPASSIVE)*featureVector(NUMRERAISESINCURRENTSTAGE));
+---
+>                         numTightsWhoHaveCheckRaised = numTightsWhoHaveCheckRaised + 0.5*(oppo_model(player, 4*(positionRVDummy -1) + TIGHTAGGRESSIVE)*featureVector(NUMCHECKRAISESINCURRENTSTAGE) + oppo_model(player, 4*(positionRVDummy -1) + TIGHTPASSIVE)*featureVector(NUMCHECKRAISESINCURRENTSTAGE));
+>                         numTightsWhoHaveReRaised = numTightsWhoHaveReRaised + 0.5*(oppo_model(player, 4*(positionRVDummy -1) + TIGHTAGGRESSIVE)*featureVector(NUMRERAISESINCURRENTSTAGE) + oppo_model(player, 4*(positionRVDummy -1) + TIGHTPASSIVE)*featureVector(NUMRERAISESINCURRENTSTAGE));

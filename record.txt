@@ -1,0 +1,521 @@
+Game started!
+
+
+*************** Game 1 ******************
+
+Beginning: 
+	Hole cards:	     5S-8S	     JS-QS	
+	Player status:	1	1	
+	Money left:	5000	5000	
+	Pot:	0
+
+Player 2 paid the small blind
+
+
+Player 1 paid the big blind
+
+
+After PRE-FLOP: 
+	Hole cards:	     5S-8S	     JS-QS	
+	Player status:	1	1	
+	Bets:	0 2 
+			2 2 
+			1 0 
+	Money left:	4980	4980	
+	Pot:	40
+
+After FLOP: 
+	Board cards:	3D	TC	KD	
+	Hole cards:	     5S-8S	     JS-QS	
+	K types:	     **** 	     NP- K	
+	SF types:	     **** 	     SO4-K	
+	Player status:	0	1	
+	Bets:	0 1 
+			3 0 
+	Money left:	4980	4980	
+	Pot:	40
+
+Player 2 WINS!!!
+	Board cards:	3D	TC	KD	
+	Hole cards:	     5S-8S	     JS-QS	
+	Final hands:	   **** 	 Junk- K	
+	Player status:	0	1	
+	Money left:	4980	5020	
+	Pot:	40
+
+
+*************** Game 2 ******************
+
+Beginning: 
+	Hole cards:	     9S-4S	     JD-TH	
+	Player status:	1	1	
+	Money left:	4980	5020	
+	Pot:	0
+
+Player 1 paid the small blind
+
+
+Player 2 paid the big blind
+
+
+After PRE-FLOP: 
+	Hole cards:	     9S-4S	     JD-TH	
+	Player status:	1	1	
+	Bets:	2 2 
+			2 1 
+	Money left:	4960	5000	
+	Pot:	40
+
+After FLOP: 
+	Board cards:	2H	KH	9C	
+	Hole cards:	     9S-4S	     JD-TH	
+	K types:	     K2-9K	     **** 	
+	SF types:	       J-K	     **** 	
+	Player status:	1	0	
+	Bets:	2 3 
+	Money left:	4950	5000	
+	Pot:	50
+
+Player 1 WINS!!!
+	Board cards:	2H	KH	9C	
+	Hole cards:	     9S-4S	     JD-TH	
+	Final hands:	   K2-9K	   **** 	
+	Player status:	1	0	
+	Money left:	5000	5000	
+	Pot:	50
+
+
+*************** Game 3 ******************
+
+Beginning: 
+	Hole cards:	     TS-7C	     4D-9S	
+	Player status:	1	1	
+	Money left:	5000	5000	
+	Pot:	0
+
+Player 2 paid the small blind
+
+
+Player 1 paid the big blind
+
+
+After PRE-FLOP: 
+	Hole cards:	     TS-7C	     4D-9S	
+	Player status:	1	1	
+	Bets:	0 2 
+			2 1 
+	Money left:	4990	4990	
+	Pot:	20
+
+After FLOP: 
+	Board cards:	7S	TH	4C	
+	Hole cards:	     TS-7C	     4D-9S	
+	K types:	   K2K2-T7	     K2-4T	
+	SF types:	       J-T	       J-T	
+	Player status:	1	1	
+	Bets:	0 1 
+			2 1 
+	Money left:	4980	4980	
+	Pot:	40
+
+After TURN: 
+	Board cards:	7S	TH	4C	TC	
+	Hole cards:	     TS-7C	     4D-9S	
+	K types:	   K3K2-T7	   K2K2-T4	
+	SF types:	      F3-T	       J-T	
+	Player status:	1	1	
+	Bets:	0 1 
+			2 2 
+			2 1 
+	Money left:	4950	4950	
+	Pot:	100
+
+After RIVER: 
+	Board cards:	7S	TH	4C	TC	QS	
+	Hole cards:	     TS-7C	     4D-9S	
+	K types:	   K3K2-T7	   K2K2-T4	
+	SF types:	      F3-Q	      F3-Q	
+	Player status:	1	1	
+	Bets:	0 2 
+			2 1 
+	Money left:	4930	4930	
+	Pot:	140
+
+Player 1 WINS!!!
+	Board cards:	7S	TH	4C	TC	QS	
+	Hole cards:	     TS-7C	     4D-9S	
+	Final hands:	 K3K2-T7	 K2K2-T4	
+	Player status:	1	1	
+	Money left:	5070	4930	
+	Pot:	140
+
+
+*************** Game 4 ******************
+
+Beginning: 
+	Hole cards:	     4D-6C	     TH-8D	
+	Player status:	1	1	
+	Money left:	5070	4930	
+	Pot:	0
+
+Player 1 paid the small blind
+
+
+Player 2 paid the big blind
+
+
+After PRE-FLOP: 
+	Hole cards:	     4D-6C	     TH-8D	
+	Player status:	1	1	
+	Bets:	2 2 
+			1 0 
+	Money left:	5060	4920	
+	Pot:	20
+
+After FLOP: 
+	Board cards:	2D	8H	TC	
+	Hole cards:	     4D-6C	     TH-8D	
+	K types:	     **** 	   K2K2-T8	
+	SF types:	     **** 	       J-T	
+	Player status:	0	1	
+	Bets:	3 0 
+	Money left:	5060	4920	
+	Pot:	20
+
+Player 2 WINS!!!
+	Board cards:	2D	8H	TC	
+	Hole cards:	     4D-6C	     TH-8D	
+	Final hands:	   **** 	 K2K2-T8	
+	Player status:	0	1	
+	Money left:	5060	4940	
+	Pot:	20
+
+
+*************** Game 5 ******************
+
+Beginning: 
+	Hole cards:	     AD-9H	     4C-8S	
+	Player status:	1	1	
+	Money left:	5060	4940	
+	Pot:	0
+
+Player 2 paid the small blind
+
+
+Player 1 paid the big blind
+
+
+After PRE-FLOP: 
+	Hole cards:	     AD-9H	     4C-8S	
+	Player status:	1	1	
+	Bets:	0 2 
+			2 1 
+	Money left:	5050	4930	
+	Pot:	20
+
+After FLOP: 
+	Board cards:	8H	6S	7D	
+	Hole cards:	     AD-9H	     4C-8S	
+	K types:	     NP- A	     K2-87	
+	SF types:	     SO4-A	     SI4-8	
+	Player status:	1	1	
+	Bets:	0 1 
+			2 1 
+	Money left:	5040	4920	
+	Pot:	40
+
+After TURN: 
+	Board cards:	8H	6S	7D	KH	
+	Hole cards:	     AD-9H	     4C-8S	
+	K types:	     NP- A	     K2-8K	
+	SF types:	  SO4-F3-A	     SI4-K	
+	Player status:	1	1	
+	Bets:	0 2 
+			2 1 
+	Money left:	5020	4900	
+	Pot:	80
+
+After RIVER: 
+	Board cards:	8H	6S	7D	KH	5S	
+	Hole cards:	     AD-9H	     4C-8S	
+	K types:	     NP- A	     K2-8K	
+	SF types:	       S-9	       S-8	
+	Player status:	1	1	
+	Bets:	0 2 
+			2 1 
+	Money left:	5000	4880	
+	Pot:	120
+
+Player 1 WINS!!!
+	Board cards:	8H	6S	7D	KH	5S	
+	Hole cards:	     AD-9H	     4C-8S	
+	Final hands:	    S- 9	    S- 8	
+	Player status:	1	1	
+	Money left:	5120	4880	
+	Pot:	120
+
+
+*************** Game 6 ******************
+
+Beginning: 
+	Hole cards:	     3D-8H	     KC-5S	
+	Player status:	1	1	
+	Money left:	5120	4880	
+	Pot:	0
+
+Player 1 paid the small blind
+
+
+Player 2 paid the big blind
+
+
+After PRE-FLOP: 
+	Hole cards:	     3D-8H	     KC-5S	
+	Player status:	1	1	
+	Bets:	2 2 
+			2 1 
+	Money left:	5100	4860	
+	Pot:	40
+
+After FLOP: 
+	Board cards:	QD	AC	7H	
+	Hole cards:	     3D-8H	     KC-5S	
+	K types:	     **** 	     NP- A	
+	SF types:	     **** 	     SO3-A	
+	Player status:	0	1	
+	Bets:	3 0 
+	Money left:	5100	4860	
+	Pot:	40
+
+Player 2 WINS!!!
+	Board cards:	QD	AC	7H	
+	Hole cards:	     3D-8H	     KC-5S	
+	Final hands:	   **** 	 Junk- A	
+	Player status:	0	1	
+	Money left:	5100	4900	
+	Pot:	40
+
+
+*************** Game 7 ******************
+
+Beginning: 
+	Hole cards:	     AC-KH	     JH-TD	
+	Player status:	1	1	
+	Money left:	5100	4900	
+	Pot:	0
+
+Player 2 paid the small blind
+
+
+Player 1 paid the big blind
+
+
+After PRE-FLOP: 
+	Hole cards:	     AC-KH	     JH-TD	
+	Player status:	1	1	
+	Bets:	0 2 
+			2 1 
+	Money left:	5090	4890	
+	Pot:	20
+
+After FLOP: 
+	Board cards:	4C	6C	AH	
+	Hole cards:	     AC-KH	     JH-TD	
+	K types:	     K2-AK	     NP- A	
+	SF types:	      F3-A	       J-A	
+	Player status:	1	1	
+	Bets:	0 2 
+			2 1 
+	Money left:	5070	4870	
+	Pot:	60
+
+After TURN: 
+	Board cards:	4C	6C	AH	9D	
+	Hole cards:	     AC-KH	     JH-TD	
+	K types:	     K2-AK	     **** 	
+	SF types:	      F3-A	     **** 	
+	Player status:	1	0	
+	Bets:	0 1 
+			2 3 
+	Money left:	5060	4870	
+	Pot:	70
+
+Player 1 WINS!!!
+	Board cards:	4C	6C	AH	9D	
+	Hole cards:	     AC-KH	     JH-TD	
+	Final hands:	   K2-AK	   **** 	
+	Player status:	1	0	
+	Money left:	5130	4870	
+	Pot:	70
+
+
+*************** Game 8 ******************
+
+Beginning: 
+	Hole cards:	     2S-7S	     TH-3D	
+	Player status:	1	1	
+	Money left:	5130	4870	
+	Pot:	0
+
+Player 1 paid the small blind
+
+
+Player 2 paid the big blind
+
+
+After PRE-FLOP: 
+	Hole cards:	     2S-7S	     TH-3D	
+	Player status:	1	1	
+	Bets:	2 2 
+			1 0 
+	Money left:	5120	4860	
+	Pot:	20
+
+After FLOP: 
+	Board cards:	JD	JC	TS	
+	Hole cards:	     2S-7S	     TH-3D	
+	K types:	     K2-JT	   K2K2-JT	
+	SF types:	      F3-J	       J-J	
+	Player status:	1	1	
+	Bets:	2 2 
+			2 1 
+	Money left:	5090	4830	
+	Pot:	80
+
+After TURN: 
+	Board cards:	JD	JC	TS	QS	
+	Hole cards:	     2S-7S	     TH-3D	
+	K types:	     K2-JQ	   K2K2-JT	
+	SF types:	  SO3-F4-Q	     SO3-Q	
+	Player status:	1	1	
+	Bets:	2 1 
+	Money left:	5080	4820	
+	Pot:	100
+
+After RIVER: 
+	Board cards:	JD	JC	TS	QS	JS	
+	Hole cards:	     2S-7S	     TH-3D	
+	K types:	     K3- J	   K3K2-JT	
+	SF types:	       F-Q	    SFO3-Q	
+	Player status:	1	1	
+	Bets:	2 2 
+			2 1 
+	Money left:	5050	4790	
+	Pot:	160
+
+Player 2 WINS!!!
+	Board cards:	JD	JC	TS	QS	JS	
+	Hole cards:	     2S-7S	     TH-3D	
+	Final hands:	    F- Q	 K3K2-JT	
+	Player status:	1	1	
+	Money left:	5050	4950	
+	Pot:	160
+
+
+*************** Game 9 ******************
+
+Beginning: 
+	Hole cards:	     2D-TH	     3D-8H	
+	Player status:	1	1	
+	Money left:	5050	4950	
+	Pot:	0
+
+Player 2 paid the small blind
+
+
+Player 1 paid the big blind
+
+
+After PRE-FLOP: 
+	Hole cards:	     2D-TH	     3D-8H	
+	Player status:	1	1	
+	Bets:	0 2 
+			2 1 
+	Money left:	5040	4940	
+	Pot:	20
+
+After FLOP: 
+	Board cards:	6H	2H	5H	
+	Hole cards:	     2D-TH	     3D-8H	
+	K types:	     K2-2T	     **** 	
+	SF types:	      F4-T	     **** 	
+	Player status:	1	0	
+	Bets:	0 3 
+	Money left:	5040	4940	
+	Pot:	20
+
+Player 1 WINS!!!
+	Board cards:	6H	2H	5H	
+	Hole cards:	     2D-TH	     3D-8H	
+	Final hands:	   K2-2T	   **** 	
+	Player status:	1	0	
+	Money left:	5060	4940	
+	Pot:	20
+
+
+*************** Game 10 ******************
+
+Beginning: 
+	Hole cards:	     KC-8C	     QH-4D	
+	Player status:	1	1	
+	Money left:	5060	4940	
+	Pot:	0
+
+Player 1 paid the small blind
+
+
+Player 2 paid the big blind
+
+
+After PRE-FLOP: 
+	Hole cards:	     KC-8C	     QH-4D	
+	Player status:	1	1	
+	Bets:	2 2 
+			2 1 
+	Money left:	5040	4920	
+	Pot:	40
+
+After FLOP: 
+	Board cards:	JH	7D	AC	
+	Hole cards:	     KC-8C	     QH-4D	
+	K types:	     NP- A	     NP- A	
+	SF types:	      F3-A	       J-A	
+	Player status:	1	1	
+	Bets:	2 1 
+	Money left:	5030	4910	
+	Pot:	60
+
+After TURN: 
+	Board cards:	JH	7D	AC	7H	
+	Hole cards:	     KC-8C	     QH-4D	
+	K types:	     K2-7A	     K2-7A	
+	SF types:	      F3-A	      F3-A	
+	Player status:	1	1	
+	Bets:	2 1 
+	Money left:	5020	4900	
+	Pot:	80
+
+After RIVER: 
+	Board cards:	JH	7D	AC	7H	AD	
+	Hole cards:	     KC-8C	     QH-4D	
+	K types:	   K2K2-A7	   K2K2-A7	
+	SF types:	      F3-A	      F3-A	
+	Player status:	1	1	
+	Bets:	2 2 
+			2 1 
+	Money left:	4990	4870	
+	Pot:	140
+
+Player 1  2 WINS!!!
+	Board cards:	JH	7D	AC	7H	AD	
+	Hole cards:	     KC-8C	     QH-4D	
+	Final hands:	 K2K2-A7	 K2K2-A7	
+	Player status:	1	1	
+	Money left:	5060	4940	
+	Pot:	140
+
+Match Over!!!!
+
+Rank:	1				2				
+Earn:	5060			4940			
+Action:	0.08/0.84/0.08	0.53/0.40/0.06	
